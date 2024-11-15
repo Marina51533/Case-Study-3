@@ -45,6 +45,8 @@ Steps to reproduce:
 
 *Screenshot of 404 error:*
 
+![1731690367258](image/README/1731690367258.png)
+
 ### **2. Propose improvements:**
 
 **Fix broken links:** Ensuring that all links are functional is essential to maintain user trust and prevent drop-offs. This can be achieved by regularly scanning the site for broken links and setting up automatic redirects to relevant pages when content is moved.
